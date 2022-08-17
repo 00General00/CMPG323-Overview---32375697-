@@ -34,7 +34,7 @@ within in each of my project, I will mainly be using 2 branches, the main branch
 
 
 ## Use of .gitignore file
-This file is created in the repository's root directory and thus tells Git the files and directories that must be ignored whenever one wants to commit.  
+This file is created in the repository's root directory and thus tells Git the files and directories that must be ignored whenever one wants to commit. (https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
 
 ## Credentials and Sensitive information
 
