@@ -27,13 +27,14 @@ project 5: CMPG323 Project 5 - <32375697>
           
 ## Branching Strategy
 Branching allows for more development features and develop independently. (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+Whenever a software development team wants to write, merge and/or place code (deploy) using version control systems, this strategy is called Branching. (https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase.)
+within in each of my project, I will mainly be using 2 branches, the main branch and the Development branch. There will also be a hotfix branch.
 
 
-Project3 - Development branch
 
 
 ## Use of .gitignore file
-
+This file is created in the repository's root directory and thus tells Git the files and directories that must be ignored whenever one wants to commit.  
 
 ## Credentials and Sensitive information
 
