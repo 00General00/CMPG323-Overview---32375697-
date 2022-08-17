@@ -20,15 +20,21 @@ project 4: CMPG323 Project 4 - <32375697>
 project 5: CMPG323 Project 5 - <32375697>
           It will be dealing with Reporting & Monitoring
        
-       ##Diagram of Repository
+## Diagram of Repository
 ![CMPG323_Repo](https://user-images.githubusercontent.com/73006104/185005446-e1762afa-e727-4ee1-af6a-446f8dbba186.png)
 
           
           
-##Branching Strategy
+## Branching Strategy
 Branching allows for more development features and develop independently (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 
 Project3 - Development branch
+
+
+## Use of .gitignore file
+
+
+## Credentials and Sensitive information
 
 
 
