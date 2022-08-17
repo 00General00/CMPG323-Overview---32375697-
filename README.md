@@ -26,7 +26,8 @@ project 5: CMPG323 Project 5 - <32375697>
           
           
 ## Branching Strategy
-Branching allows for more development features and develop independently (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+Branching allows for more development features and develop independently. (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+
 
 Project3 - Development branch
 
