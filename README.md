@@ -3,8 +3,8 @@ CMPG323 PROJECT REPOSITORY
 
 ## Repository 
 
-project 1: CMPG323 Project 1 - <32375697>
-          It will be dealing with Agile and scrum
+project 1: CMPG323-Overview---32375697
+It will be dealing with Agile and scrum
           
 project 2: CMPG323 Project 2 - <32375697>
           It will be dealing with API Development
