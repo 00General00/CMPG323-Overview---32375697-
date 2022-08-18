@@ -33,17 +33,17 @@ within in each of my project, there will be a main stratedy. I will mainly be us
 
 
 
-## Use of .gitignore file
+## Use of *.gitignore* file
 This file is created in the repository's root directory and thus tells Git the files and directories that must be ignored whenever one wants to commit (GitHub Docs, 2022).
 I will be ignoring previous versions of my applications, as a version control.
-Each repository will have .gitignore file to ignore certain version of ode that are unwanted and also to send or commit ignore rules for those users that want to clone my Repositories.
+Each repository will have *.gitignore* file to ignore certain version of ode that are unwanted and also to send or commit ignore rules for those users that want to clone my Repositories.
 
 ## Credentials and Sensitive information
 A database will be used to store such information, As they are able to store a large amount of information and thereafter even encrypt the information if seen neccessary (Just like this instant).
 
 
-
-## Reference List
+## Reference
+### Reference List
 Github Docs. 2022. About branches. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches . Date accessed: 16 August 2022.
 
 Hadded, R. 2022.What Are the Best Git Branching Strategies. https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase. Date Accessed: 16 August 2022.
