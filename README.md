@@ -11,18 +11,18 @@ project 2: CMPG323-Project-2---32375697-
           https://github.com/00General00/CMPG323-Project-2---32375697-.git
           It will be dealing with API Development
     
-project 3: CMPG323 Project 3 - <32375697>
+project 3: CMPG323-Project-3---32375697-
           https://github.com/00General00/CMPG323-Project-3---32375697-.git
           It will be dealing with Standards & Patterns
           to be enhanced and improved
           
-project 4: CMPG323 Project 4 - <32375697>
+project 4: CMPG323-Project-4---32375697-
           https://github.com/00General00/CMPG323-Project-4---32375697-.git
           It will be dealing with Testing & RPA
         
           
-project 5: CMPG323 Project 5 - <32375697>
-          
+project 5: CMPG323-Project-5---32375697-
+          https://github.com/00General00/CMPG323-Project-5---32375697-.git
           It will be dealing with Reporting & Monitoring
        
 ## Diagram of Repository
