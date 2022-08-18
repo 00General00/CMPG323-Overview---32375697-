@@ -27,14 +27,14 @@ project 5: CMPG323 Project 5 - <32375697>
           
 ## Branching Strategy
 Branching allows for more development features and develop independently (github docs [^1]).
-Whenever a software development team wants to write, merge and/or place code (deploy) using version control systems, this strategy is called Branching (Hadda, R. 2022).
+Whenever a software development team wants to write, merge and/or place code (deploy) using version control systems, this strategy is called Branching (Hadda, R. 2022 [^2]).
 within in each of my project, there will be a main stratedy. I will mainly be using the main branch and the Development branch. There will also be a hotfix branch here and there, if necessary.
 
 
 
 
 ## Use of *.gitignore* file
-This file is created in the repository's root directory and thus tells Git the files and directories that must be ignored whenever one wants to commit (GitHub Docs, 2022).
+This file is created in the repository's root directory and thus tells Git the files and directories that must be ignored whenever one wants to commit (GitHub Docs, 2022 [^3]).
 I will be ignoring previous versions of my applications, as a version control.
 Each repository will have *.gitignore* file to ignore certain version of ode that are unwanted and also to send or commit ignore rules for those users that want to clone my Repositories.
 
@@ -46,9 +46,9 @@ A database will be used to store such information, As they are able to store a l
 ### Reference List
 [^1]: Github Docs. 2022. About branches. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches . Date accessed: 16 August 2022.
 
-Hadded, R. 2022.What Are the Best Git Branching Strategies. https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase. Date Accessed: 16 August 2022.
+[^1]: Hadded, R. 2022.What Are the Best Git Branching Strategies. https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase. Date Accessed: 16 August 2022.
 
-GitHub Docs. 2022. Ignoring files. https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files. Date Access: 17 August 2022.
+[^3]: GitHub Docs. 2022. Ignoring files. https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files. Date Access: 17 August 2022.
 
 
 
