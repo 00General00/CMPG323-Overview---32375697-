@@ -26,7 +26,7 @@ project 5: CMPG323 Project 5 - <32375697>
           
           
 ## Branching Strategy
-Branching allows for more development features and develop independently (github docs).
+Branching allows for more development features and develop independently (github docs [^1]).
 Whenever a software development team wants to write, merge and/or place code (deploy) using version control systems, this strategy is called Branching (Hadda, R. 2022).
 within in each of my project, there will be a main stratedy. I will mainly be using the main branch and the Development branch. There will also be a hotfix branch here and there, if necessary.
 
@@ -44,7 +44,7 @@ A database will be used to store such information, As they are able to store a l
 
 ## Reference
 ### Reference List
-Github Docs. 2022. About branches. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches . Date accessed: 16 August 2022.
+Github Docs. 2022. About branches. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches . Date accessed: 16 August 2022.[^1]
 
 Hadded, R. 2022.What Are the Best Git Branching Strategies. https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase. Date Accessed: 16 August 2022.
 
